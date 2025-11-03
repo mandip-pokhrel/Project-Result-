@@ -1,7 +1,7 @@
 <html>
 <head>
   The Grade(S)  SECURED BY : <h4 align="center"><u>Mandip Pokhrel</u></h4>
-  DATE OF BIRTH : 2067-06-24 BS(2010-10-10) 
+  DATE OF BIRTH : <u>2067-06-24 BS(2010-10-10) </u>
   REGISTRATION NO:__________ SYMBOL NUMBER:___________ GRADE:9
   IN THE SECOND TERMINAL EXAMINATION CONDUCTED IN (2082  BS) :(2025 AD) 
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
