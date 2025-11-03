@@ -27,7 +27,7 @@
       <td>3.75</td>
       <td>3.2</td>
       <td>B+</td>
-      <td>A</td>
+      <td rowspan="2">A</td>
       <td></td>
     </tr>
      <tr>
@@ -36,7 +36,7 @@
       <td>1.25</td>
       <td>3.6</td>
       <td>A</td>
-      <td>A</td>
+      <td></td>
       <td></td>
     </tr>
         <tr>
@@ -45,7 +45,7 @@
       <td>3.75</td>
       <td>3.2</td>
       <td>B+</td>
-      <td>A</td>
+      <td rowspan="2" >A</td>
       <td></td>
     </tr>
         <tr>
@@ -54,7 +54,7 @@
       <td>1.25</td>
       <td>4.0</td>
       <td>A+</td>
-      <td>A</td>
+      <td></td>
       <td></td>
     </tr>
         <tr>
@@ -63,7 +63,7 @@
       <td>3</td>
       <td>2.0</td>
       <td>C</td>
-      <td>B</td>
+      <td rowspan="2">B</td>
       <td></td>
     </tr>
         <tr>
@@ -72,7 +72,7 @@
       <td>1</td>
       <td>4.0</td>
       <td>A+</td>
-      <td>B</td>
+      <td></td>
       <td></td>
     </tr>
         <tr>
@@ -81,7 +81,7 @@
       <td>3.75</td>
       <td>3.6</td>
       <td>A</td>
-      <td>A+</td>
+      <td rowspan="2">A+</td>
       <td></td>
     </tr>
         <tr>
@@ -90,7 +90,7 @@
       <td>1.25</td>
       <td>4.0</td>
       <td>A+</td>
-      <td>A+</td>
+      <td></td>
       <td></td>
     </tr>
         <tr>
@@ -99,7 +99,7 @@
       <td>3.75</td>
       <td>1.6</td>
       <td>D</td>
-      <td>C+</td>
+      <td rowspan="2">C+</td>
       <td></td>
     </tr>
         <tr>
@@ -108,7 +108,7 @@
       <td>1.25</td>
       <td>3.6</td>
       <td>A</td>
-      <td>C+</td>
+      <td></td>
       <td></td>
     </tr>
         <tr>
@@ -117,7 +117,7 @@
       <td>3</td>
       <td>2.4</td>
       <td>C+</td>
-      <td>B</td>
+      <td rowspan="2">B</td>
       <td></td>
     </tr>
         <tr>
@@ -126,7 +126,7 @@
       <td>1</td>
       <td>3.6</td>
       <td>A</td>
-      <td>B</td>
+      <td></td>
       <td></td>
     </tr>
         <tr>
@@ -135,7 +135,7 @@
       <td>2</td>
       <td>3.2</td>
       <td>B+</td>
-      <td>A</td>
+      <td rowspan="2">A</td>
       <td></td>
     </tr>
         <tr>
@@ -144,15 +144,15 @@
       <td>2</td>
       <td>4.0</td>
       <td>A+</td>
-      <td>A</td>
+      <td></td>
       <td></td>
     </tr>
         <tr>
       <td></td>
       <td></td>
       <td></td>
-      <td>Grade Point</td>
-      <td>Average (GPA) </td>
+      <td conspan="2">Grade Point</td>
+      <td conspan="3">Average (GPA) </td>
       <td>3.05</td>
       <td></td>
     </tr>
