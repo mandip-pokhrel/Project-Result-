@@ -6,7 +6,7 @@
   IN THE SECOND TERMINAL EXAMINATION CONDUCTED IN (2082  BS) :(2025 AD) 
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
-  <title> Results</title>
+
   
 </head>
 <body>
