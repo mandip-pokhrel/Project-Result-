@@ -142,7 +142,7 @@
       <td>14</td>
       <td>Computer (IN)             </td>
       <td>2</td>
-      <td>3.2</td>
+      <td>4.0</td>
       <td>A+</td>
       <td>A</td>
       <td></td>
