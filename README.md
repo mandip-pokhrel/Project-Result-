@@ -6,7 +6,7 @@
   IN THE SECOND TERMINAL EXAMINATION CONDUCTED IN (2082  BS) :(2025 AD) 
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
-  <title>`substitute(Filename('', 'Page Title'), '^.', '\u&', '')`</title>
+  <title> Results</title>
   
 </head>
 <body>
@@ -17,7 +17,7 @@
      <th>Credit Hour (CH)</th>
      <th>Grade Point (G.P)</th>
      <th>Grade</th>
-     <th>Final Grade (FB) </th>
+     <th>Final Grade (FG) </th>
      <th>Remarks</th>
     </tr>
     <br />
